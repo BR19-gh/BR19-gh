@@ -1,58 +1,90 @@
-### <code> Hello World </code>
+<hr>
 
-
-<div id="badges">
-  <a href="[linkedin-URL](https://www.linkedin.com/in/ibrahim-alkhowaiter-430b24203/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div id="header" align="center">
+  <img align="center" src="https://github.com/BR19-gh/BR19-gh/blob/master/FullSizeRender.gif" alt=""/>
+  <br><br>
+  <div id="badges">
   <a href="[portfolio-URL](https://br19.herokuapp.com/)">
     <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+    <a href="[linkedin-URL](https://www.linkedin.com/in/ibrahim-alkhowaiter-430b24203/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[stackoverflow-URL](https://stackoverflow.com/users/16627404/br19-so)">
     <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=BR19-gh&style=for-the-badge&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=BR19-gh&style=flat-square&color=blue" alt=""/>
-<img src="https://github.com/BR19-gh/BR19-gh/FullSizeRender.gif" alt=""/>
+
+## About me 🔎:
+
+- My Name is Ibrahim Alkhowaiter 🏷️👤.
+
+- Computer Scince Graduate form QU 🎓.
+
+- FullStack and Software Developer 💻🌐.
+
+- Live in Unaizah, Qassim, KSA 🌴🇸🇦.
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+## Tech Skills ⚙️:
+  
+### Stuff I'm good at:
+  
+![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=%306998ie)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-%23121011.svg?style=for-the-badge&logo=flask&logoColor=%gray)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23563D7C.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=%231572B6)
+![PostgreSql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=%231572B6)
+
+  
+### Stuff I'm familiar with:
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=000)
+![mongodb](https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=4DB33D&color=FFF)
+![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=8993be&color=232531)
+![c#](https://img.shields.io/badge/csharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white&color=green)
+![asp](https://img.shields.io/badge/asp-green.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=512bd4)
+![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![typescript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=%231572B6)
+
+
+  
 </div>
 
-https://github-readme-streak-stats.herokuapp.com/?user=BR19-gh
 
+
+## Personal Stats 📊:
+<div align="center">
+  
+ <div>
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=github-dark-blue)](https://git.io/streak-stats)
-
+   
+</div>
+  
+   <div>
+     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&layout=compact)](https://github.com/BR19-gh)
+     
+ </div> 
+  
+</div>
 
-**BR19-gh/BR19-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<hr>
