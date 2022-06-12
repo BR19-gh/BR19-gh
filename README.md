@@ -83,9 +83,9 @@
   
  <div>
    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=github-dark-blue)](https://github.com/BR19-gh)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=github_dark)](https://github.com/BR19-gh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
    
 </div>
   
@@ -102,9 +102,9 @@
 
 ## My Favorite Repos 💟:
 
- [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/online-store-billing-system)
- [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman-Game&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/Runman-Game)
- [![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/reviewSystem)
+ [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=algolia)](https://github.com/BR19-gh/online-store-billing-system)
+ [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman-Game&show_icons=true&theme=maroongold)](https://github.com/BR19-gh/Runman-Game)
+ [![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=tokyonight)](https://github.com/BR19-gh/reviewSystem)
  
 
 <hr>
