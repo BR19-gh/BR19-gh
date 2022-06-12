@@ -39,7 +39,7 @@
   
 ### Stuff I'm good at:
   
-![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=%306998ie)
+![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=306998&color=FFD43B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,9 +48,9 @@
 ![tkinter](https://img.shields.io/badge/tkinter-%23F7DF1E.svg?style=for-the-badge&logo=tkinter&logoColor=%306998ie&color=306998)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23563D7C.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=%231572B6)
-![PostgreSql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23563D7C.svg?style=for-the-badge&logo=heroku&logoColor=white&color=6762A6)
+![Flutter](https://img.shields.io/badge/flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=5ec8f8)
+![PostgreSql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
 ![sqlite](https://img.shields.io/badge/sqlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=%231572B6)
 
   
@@ -64,9 +64,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=000)
 ![mongodb](https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=4DB33D&color=FFF)
 ![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=8993be&color=232531)
-![c#](https://img.shields.io/badge/csharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white&color=green)
+![c#](https://img.shields.io/badge/csharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white&color=darkgreen)
 ![asp](https://img.shields.io/badge/asp-green.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=512bd4)
-![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white)
+![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=blue&color=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![typescript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=%231572B6)
 
