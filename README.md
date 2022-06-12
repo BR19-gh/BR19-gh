@@ -5,7 +5,7 @@
   <br><br>
   <div id="badges">
   <a href="[portfolio-URL](https://br19.herokuapp.com/)">
-    <img src="https://img.shields.io/badge/Portfolio-navy?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
+    <img href="[portfolio-URL](https://br19.herokuapp.com/)" src="https://img.shields.io/badge/Portfolio-navy?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
     <a href="[linkedin-URL](https://www.linkedin.com/in/ibrahim-alkhowaiter-430b24203/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
