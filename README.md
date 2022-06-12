@@ -88,7 +88,7 @@
   
    <div>
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&layout=compact)](https://github.com/BR19-gh)
+
      
  </div> 
   
