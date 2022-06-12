@@ -5,7 +5,7 @@
   <br><br>
   <div id="badges">
   <a href="[portfolio-URL](https://br19.herokuapp.com/)">
-    <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-navy?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
     <a href="[linkedin-URL](https://www.linkedin.com/in/ibrahim-alkhowaiter-430b24203/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
   <a href="[stackoverflow-URL](https://stackoverflow.com/users/16627404/br19-so)">
     <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=BR19-gh&style=for-the-badge&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=BR19-gh&style=for-the-badge&color=red" alt=""/>
 </div>
 </div>
 
@@ -45,6 +45,7 @@
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-%23121011.svg?style=for-the-badge&logo=flask&logoColor=%gray)
+![tkinter](https://img.shields.io/badge/tkinter-%23F7DF1E.svg?style=for-the-badge&logo=tkinter&logoColor=%306998ie&color=306998)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23563D7C.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -84,6 +85,8 @@
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=github-dark-blue)](https://git.io/streak-stats)
    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=github_dark)](https://github.com/BR19-gh)
+   
 </div>
   
    <div>
@@ -94,16 +97,14 @@
   
 </div>
 
-<hr>
-
 <br>
 <br>
 
-## My Favorite Repos/Projects 📊:
+## My Favorite Repos/Projects 💟:
 
-- <a href="https://github.com/BR19-gh/online-store-billing-system"> ![OSBS](https://img.shields.io/badge/OSBS-black.svg?style=for-the-badge&logo=store&logoColor=white) </a>
-- <a href="https://github.com/BR19-gh/Runman-Game"> ![Runman](https://img.shields.io/badge/Runman-red.svg?style=for-the-badge&logo=store&logoColor=black) </a>
-- <a href="https://github.com/BR19-gh/reviewSystem"> ![ReviewSystem](https://img.shields.io/badge/ReviewSystem-blue.svg?style=for-the-badge&logo=store&logoColor=white) </a>
+ [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/online-store-billing-system)
+ [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman-Game&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/Runman-Game)
+ [![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/reviewSystem)
  
 
 <hr>
