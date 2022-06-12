@@ -17,6 +17,8 @@
 </div>
 </div>
 
+<br>
+<br>
 
 ## About me 🔎:
 
@@ -29,6 +31,9 @@
 - Live in Unaizah, Qassim, KSA 🌴🇸🇦.
 
 <div>
+
+<br>
+  <br>
   
 ## Tech Skills ⚙️:
   
@@ -69,6 +74,8 @@
 </div>
 
 
+<br>
+<br>
 
 ## Personal Stats 📊:
 <div align="center">
@@ -86,5 +93,17 @@
  </div> 
   
 </div>
+
+<hr>
+
+<br>
+<br>
+
+## My Favorite Repos/Projects 📊:
+
+- <a href="https://github.com/BR19-gh/online-store-billing-system"> ![OSBS](https://img.shields.io/badge/OSBS-black.svg?style=for-the-badge&logo=store&logoColor=white) </a>
+- <a href="https://github.com/BR19-gh/Runman-Game"> ![Runman](https://img.shields.io/badge/Runman-red.svg?style=for-the-badge&logo=store&logoColor=black) </a>
+- <a href="https://github.com/BR19-gh/reviewSystem"> ![ReviewSystem](https://img.shields.io/badge/ReviewSystem-blue.svg?style=for-the-badge&logo=store&logoColor=white) </a>
+ 
 
 <hr>
