@@ -17,6 +17,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=BR19-gh&style=flat-square&color=blue" alt=""/>
+<img src="https://github.com/BR19-gh/BR19-gh/FullSizeRender.gif" alt=""/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
