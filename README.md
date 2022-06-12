@@ -100,7 +100,7 @@
 <br>
 <br>
 
-## My Favorite Repos/Projects 💟:
+## My Favorite Repos 💟:
 
  [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/online-store-billing-system)
  [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman-Game&show_icons=true&theme=github_dark)](https://github.com/BR19-gh/Runman-Game)
