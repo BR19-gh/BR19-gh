@@ -40,7 +40,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=BR19-gh
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&layout=compact)](https://github.com/BR19-gh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&layout=compact)](https://github.com/BR19-gh)
 
 **BR19-gh/BR19-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
