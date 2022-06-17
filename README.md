@@ -58,6 +58,7 @@
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red)
@@ -83,9 +84,11 @@
   
  <div>
    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BR19-gh&show_icons=true&theme=nightowl)
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=nightowl&layout=compact)](https://github.com/BR19-gh)
    
 </div>
   
