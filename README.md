@@ -52,7 +52,6 @@
 ![Flutter](https://img.shields.io/badge/flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=5ec8f8)
 ![PostgreSql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
 ![sqlite](https://img.shields.io/badge/sqlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=%231572B6)
-![postman](https://img.shields.io/badge/postman-white.svg?style=for-the-badge&logo=postman&logoColor=EF5B25)
 
   
 ### Stuff I'm familiar with:
