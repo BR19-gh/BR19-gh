@@ -53,6 +53,7 @@
 ![PostgreSql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
 ![sqlite](https://img.shields.io/badge/sqlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=%231572B6)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=%231572B6)
 
   
 ### Stuff I'm familiar with:
@@ -70,7 +71,6 @@
 ![asp](https://img.shields.io/badge/asp-green.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=512bd4)
 ![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=blue&color=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![typescript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=%231572B6)
 
 
   
