@@ -87,7 +87,7 @@
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BR19-gh&show_icons=true&theme=nightowl)
    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=nightowl&layout=compact)](https://github.com/BR19-gh)
    
