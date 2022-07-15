@@ -89,7 +89,7 @@
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BR19-gh&theme=nightowl)](https://github.com/BR19-gh)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR19-gh&theme=nightowl&layout=compact)](https://github.com/BR19-gh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=5&username=BR19-gh&theme=nightowl&layout=compact)](https://github.com/BR19-gh)
    
 </div>
   
