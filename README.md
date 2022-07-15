@@ -24,7 +24,7 @@
 
 - My Name is Ibrahim Alkhowaiter 🏷️👤.
 
-- Computer Scince Graduate form QU 🎓.
+- Computer Science Graduate form QU 🎓.
 
 - FullStack and Software Developer 💻🌐.
 
