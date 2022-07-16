@@ -28,7 +28,7 @@
 
 - FullStack and Software Developer 💻🌐.
 
-- Live in Unaizah, Qassim, KSA 🌴🇸🇦.
+- Live in Unaizah, KSA 🌴🇸🇦.
 
 <div>
 
