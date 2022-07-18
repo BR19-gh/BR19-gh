@@ -1,5 +1,5 @@
 <hr>
- 
+   
 <div id="header" align="center">
   <img align="center" src="https://github.com/BR19-gh/BR19-gh/blob/master/FullSizeRender.gif" alt=""/>
   <br><br>
@@ -28,7 +28,7 @@
 
 - FullStack and Software Developer 💻🌐.
 
-- Live in Unaizah, KSA 🌴🇸🇦.
+- Live in Unaizah, Qassim, KSA 🌴🇸🇦.
 
 <div>
 
