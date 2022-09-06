@@ -26,6 +26,8 @@
 
 - Computer Science Graduate form QU 🎓.
 
+- Working at Innovationteam as Pega Developer ⚙️💼.
+
 - FullStack and Software Developer 💻🌐.
 
 - Live in Unaizah, Qassim, KSA 🌴🇸🇦.
