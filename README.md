@@ -73,7 +73,7 @@
 ![asp](https://img.shields.io/badge/asp-green.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=512bd4)
 ![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=blue&color=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Pega](https://img.shields.io/badge/Pega-%230769AD.svg?style=for-the-badge&logo=Pega&logoColor=white)
+![pega](https://img.shields.io/badge/pega-blue.svg?style=for-the-badge&logo=pega&logoColor=white&color=darkblue)
 
 
   
