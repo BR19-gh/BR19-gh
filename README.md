@@ -110,10 +110,10 @@
 ## My Favorite Repos 💟:
 
  [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=algolia)](https://github.com/BR19-gh/online-store-billing-system)
+ [![RSD](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=rsd&show_icons=true&theme=prussian )](https://github.com/BR19-gh/rsd)
  [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman&show_icons=true&theme=maroongold)](https://github.com/BR19-gh/Runman)
  [![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=tokyonight)](https://github.com/BR19-gh/reviewSystem)
-     [![RSD](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=rsd&show_icons=true&theme=prussian )](https://github.com/BR19-gh/rsd)
-  [![myPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=myPortfolio&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/myPortfolio)
+ [![myPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=myPortfolio&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/myPortfolio)
 
  
 
