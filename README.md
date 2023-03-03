@@ -26,7 +26,7 @@
 
 - Computer Science Graduate form QU 🎓.
 
-- Training at Innovationteam as Pega Developer ⚙️💼.
+- Training at Innovationteam as Pega and Java Spring Boot Developer ⚙️💼.
 
 - FullStack and Software Developer 💻🌐.
 
