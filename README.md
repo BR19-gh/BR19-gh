@@ -73,8 +73,9 @@
 ![asp](https://img.shields.io/badge/asp-green.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=512bd4)
 ![dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=blue&color=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![pega](https://img.shields.io/badge/pega-blue.svg?style=for-the-badge&logo=pega&logoColor=white&color=darkblue)
-
+![Pega](https://img.shields.io/badge/pega-blue.svg?style=for-the-badge&logo=pega&logoColor=white&color=darkblue)
+![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white&color=orange)
+![Spring Boot](https://img.shields.io/badge/springboot-72b646.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   
 </div>
