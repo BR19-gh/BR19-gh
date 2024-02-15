@@ -38,9 +38,14 @@
 ## Tech Skills ⚙️:
   
 ### Stuff I'm good at:
-  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=306998&color=FFD43B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -58,11 +63,6 @@
   
 ### Stuff I'm familiar with:
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=000)
 ![mongodb](https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=4DB33D&color=FFF)
@@ -107,12 +107,12 @@
 <br>
 
 ## My Favorite Repos 💟:
-
- [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=algolia)](https://github.com/BR19-gh/online-store-billing-system)
- [![RSD](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=rsd&show_icons=true&theme=prussian )](https://github.com/BR19-gh/rsd)
- [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman&show_icons=true&theme=maroongold)](https://github.com/BR19-gh/Runman)
- [![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=tokyonight)](https://github.com/BR19-gh/reviewSystem)
- [![myPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=myPortfolio&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/myPortfolio)
+[![employeePolls](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=employeePolls&show_icons=true&theme=prussian)](https://github.com/BR19-gh/employeePolls-Udacity)
+[![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=algolia)](https://github.com/BR19-gh/online-store-billing-system)
+[![RSD](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=rsd&show_icons=true&theme=algolia )](https://github.com/BR19-gh/rsd)
+[![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman&show_icons=true&theme=maroongold)](https://github.com/BR19-gh/Runman)
+[![ReviewSystem](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=reviewSystem&show_icons=true&theme=tokyonight)](https://github.com/BR19-gh/reviewSystem)
+[![myPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=myportfolioNew&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/myportfolioNew)
 
  
 
