@@ -26,7 +26,7 @@
 
 - Computer Science Graduate form QU 🎓.
 
-- FullStack and Software Developer 💻🌐.
+- FullStack and Mobile Apps Developer 💻🌐.
 
 - Live in Unaizah and Riyadh, KSA 🌴🇸🇦.
 
