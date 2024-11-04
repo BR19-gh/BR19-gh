@@ -46,8 +46,6 @@
 ![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=306998&color=FFD43B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,8 +62,11 @@
   
 ### Stuff I'm familiar with:
 
-![Angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red)
+![Swift](https://img.shields.io/badge/swift-white.svg?style=for-the-badge&logo=swift&logoColor=f05139)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=000)
+![Angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red)
+![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=4DB33D&color=FFF)
 ![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=8993be&color=232531)
 ![c#](https://img.shields.io/badge/csharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white&color=darkgreen)
