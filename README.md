@@ -41,7 +41,7 @@
 ### Stuff I'm good at:
 
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-%23323330.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=306998&color=FFD43B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
