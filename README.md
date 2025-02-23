@@ -25,9 +25,9 @@
 
 - My Name is Ibrahim Alkhowaiter 🏷️👤.
 
-- Computer Science Graduate form QU 🎓.
+- Digital Sulotions Developer at Alinma 💻🌐.
 
-- FullStack and Mobile Apps Developer 💻🌐.
+- Computer Science Graduate form QU 🎓.
 
 - Live in Unaizah and Riyadh, KSA 🌴🇸🇦.
 
