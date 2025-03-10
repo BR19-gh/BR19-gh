@@ -38,7 +38,7 @@
   
 ## Tech Skills ⚙️:
   
-### Stuff I'm good at:
+### Usually working with:
 
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
