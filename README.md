@@ -110,7 +110,7 @@
 
 ## My Favorite Repos 💟:
 [![QuickCalc](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=QuickCalc&show_icons=true&theme=tokyonight)](https://github.com/BR19-gh/QuickCalc)
-[![myPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=myportfolioNew&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/myportfolioNew)
+[![br19-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=br19-portifolio&show_icons=true&theme=yeblu)](https://github.com/BR19-gh/br19-portifolio)
 [![employeePolls](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=employeePolls&show_icons=true&theme=prussian)](https://github.com/BR19-gh/employeePolls-Udacity)
 [![OSBS](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=online-store-billing-system&show_icons=true&theme=algolia)](https://github.com/BR19-gh/online-store-billing-system)
 [![Runman](https://github-readme-stats.vercel.app/api/pin/?username=BR19-gh&repo=Runman&show_icons=true&theme=maroongold)](https://github.com/BR19-gh/Runman)
